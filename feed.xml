@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://m25286.github.io/chantroixanh/feed.xml" rel="self" type="application/atom+xml" /><link href="https://m25286.github.io/chantroixanh/" rel="alternate" type="text/html" /><updated>2019-04-14T10:58:54+09:00</updated><id>https://m25286.github.io/chantroixanh/feed.xml</id><title type="html">Chân trời xanh</title><entry><title type="html">Welcome to Jekyll!</title><link href="https://m25286.github.io/chantroixanh/jekyll/update/2019/04/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-14T10:48:12+09:00</published><updated>2019-04-14T10:48:12+09:00</updated><id>https://m25286.github.io/chantroixanh/jekyll/update/2019/04/14/welcome-to-jekyll</id><content type="html" xml:base="https://m25286.github.io/chantroixanh/jekyll/update/2019/04/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Chương 1 – Chỉ duy nhất một điều không thể tha thứ</title><link href="https://m25286.github.io/chantroixanh/2018/09/12/chuong-1.html" rel="alternate" type="text/html" title="Chương 1 – Chỉ duy nhất một điều không thể tha thứ" /><published>2018-09-12T00:00:00+09:00</published><updated>2018-09-12T00:00:00+09:00</updated><id>https://m25286.github.io/chantroixanh/2018/09/12/chuong-1</id><content type="html" xml:base="https://m25286.github.io/chantroixanh/2018/09/12/chuong-1.html">&lt;p&gt;Chắc chắn lần hội ngộ đó, không phải là nhờ những thứ kiểu như định mệnh.&lt;/p&gt;
+
+&lt;p&gt;Thì vì Đảo bậc thang chỉ có mỗi một ngôi trường, đến cuối cùng thì cô ấy cũng phải theo học ở đó. Trễ nhất là vài tiếng sau, hẳn nhiên chúng tôi sẽ chạm mặt nhau. Bởi vậy hoàn toàn không thể nói là ngẫu nhiên được.&lt;/p&gt;
+
+&lt;p&gt;Nguyên cớ là sau một thời gian dài lại mơ thấy mình ngắm nhìn trời đêm trên bờ biển, một cái gì đó tầm như vậy.&lt;/p&gt;
+
+&lt;p&gt;Chỉ cần mơ thấy giấc mơ dù chỉ một chút cảm thương cũng khiến tôi thức dậy sớm hơn bình thường, không còn có hứng chui lại vào trong chăn nữa, mặc thêm áo và ra khỏi ký túc. Với tâm trạng thất thường, tôi quyết định đi dạo một mình vào sáng sớm. Tính đến bây giờ tôi đã thử làm những việc giống như thế bao nhiêu lần rồi.&lt;/p&gt;
+
+&lt;p&gt;Bình minh trên đảo, trừ những ngày gió lớn ra, tĩnh lặng như cái không khí của thư viện buổi sáng, thanh khiết, đi dạo lúc này thật là thoải mái.&lt;/p&gt;
+
+&lt;p&gt;Dường như là tại bởi giấc mơ, tôi đi bộ trên con đường nhỏ men theo bờ biển.&lt;/p&gt;
+
+&lt;p&gt;Mặc dù được gọi là bờ biển nhưng lại không hề có bãi cát, không phù hợp với bộ đồ bơi, phía biển bên cạnh, những con sóng đập từng đợt tí tách, đó là một con đường nhàm chán như thế. Tôi thích cái sự nhàm chán đó. Từ trước đã như vậy rồi. Ví dụ như tôi nghĩ những viên kim cương to, đắt tiền thì được yêu thích là đương nhiên nhỉ.&lt;/p&gt;
+
+&lt;p&gt;Từ phía chân trời, mặt trời ló dạng, chính là khoảng thời gian bầu trời đỏ rực. Phía những ngọn núi, trời tây như vẫn còn tản mác lại một chút tàn dư của buổi đêm. Bóng mây dài đậm nét, nhưng khoảng thời gian chiều tà, khoảng thời gian mà ánh sáng không còn sắc nhọn, tôi lại thấy thích. Cũng giống như kiểu con đường bờ biển nhàm chán.&lt;/p&gt;
+
+&lt;p&gt;Vô tình liếc nhìn đồng hồ đeo tay, lúc nó đang chỉ 6h42′. Một chút hơi thở trên khóe miệng đã vương màu trắng, đã có cảm giác mùa đông đang đến gần rồi.&lt;/p&gt;
+
+&lt;p&gt;Chính là vào lúc đó.&lt;/p&gt;
+
+&lt;p&gt;“Bôn”&lt;/p&gt;
+
+&lt;p&gt;Nghe thấy gọi tên mình, tôi ngẩng mặt lên.&lt;/p&gt;
+
+&lt;p&gt;Một cô gái đang đứng trên hải bích.&lt;/p&gt;
+
+&lt;p&gt;Là thiếu nữ trong bộ đồng phục sailor moon quen thuộc. Cùng với túi đeo chéo vai màu xanh đậm kiểu dáng đơn giản. Trong ánh mặt trời tinh xảo của buổi bình minh, trang phục màu trắng được phủ màu yếu ớt. Mái tóc đen óng ả có một chút phấp phới trong cơn gió nhẹ thổi từ ngoài biển.&lt;/p&gt;
+
+&lt;p&gt;Cô gái đứng trên hải bích, nhìn thẳng xuống đây. Hình ảnh này, ở đầu đó có cảm giác kịch tính. Trong cảnh sắc màu tối nhẹ, nổi bật lên một người. Tại sao lại có thể không để ý thấy một cô gái nổi bật đến như vậy. Tôi thường không chú ý đến những thứ cần thiết.&lt;/p&gt;
+
+&lt;p&gt;“Giang”&lt;/p&gt;
+
+&lt;p&gt;Trong vô thức đôi chân dừng lại. Hoảng hồn, kinh ngạc. Cảm thấy như mặt biến sắc. Cô gái ấy là Hương Giang. Thật sao? Không thể nào.&lt;/p&gt;
+
+&lt;p&gt;Giang không ngần ngại, từ trên hải bích đi tới.&lt;/p&gt;
+
+&lt;p&gt;“Lâu rồi không gặp, Bôn.”&lt;/p&gt;
+
+&lt;p&gt;“À, ừ. Lâu rồi không gặp.”&lt;/p&gt;
+
+&lt;p&gt;“2 năm rồi nhỉ?”&lt;/p&gt;
+
+&lt;p&gt;“Đại khái là tầm đó thì phải.”&lt;/p&gt;
+
+&lt;p&gt;“Bôn chẳng thay đổi gì nhỉ. Nhìn một cái thôi là thấy được rồi.”&lt;/p&gt;
+
+&lt;p&gt;Hương Giang vẫn là Hương Giang. Là cô gái trong ký ức. Giọng nói, dáng đi, diện mạo, tất cả đều thẳng thắn. Hiện thực không hoàn toàn thẳng băng. Ngoài cô gái ra, mọi người đều có chỗ nào đó bị méo mó, bởi vậy cô gái mới nổi bật. Giống như một bức ảnh phức hợp được tạo ra hơi tệ, phần nào đó không thể quen được với thế giới này.&lt;/p&gt;
+
+&lt;p&gt;Cô gái từ trên hải bích nhảy xuống, đứng trước mặt tôi.  “Tan” một tiếng tiếp đất hiệu quả, vang vọng vào cảnh sắc còn ngái ngủ buổi sáng.&lt;/p&gt;
+
+&lt;p&gt;Cô gái nói.&lt;/p&gt;
+
+&lt;p&gt;“Tớ có chuyện muốn hỏi cậu”&lt;/p&gt;
+
+&lt;p&gt;“Ừ”&lt;/p&gt;
+
+&lt;p&gt;“Đây là đâu?”&lt;/p&gt;
+
+&lt;p&gt;“Đảo bậc thang ếi”&lt;/p&gt;
+
+&lt;p&gt;“Chưa nghe thấy bao giờ”&lt;/p&gt;
+
+&lt;p&gt;“Có vẻ như cũng không có trên bản đồ”&lt;/p&gt;
+
+&lt;p&gt;“Tại sao tớ lại ở một nơi như thế này?”&lt;/p&gt;
+
+&lt;p&gt;“Tớ không biết”&lt;/p&gt;
+
+&lt;p&gt;“Vậy còn Bôn?”&lt;/p&gt;
+
+&lt;p&gt;“Cái đó cũng chịu”&lt;/p&gt;
+
+&lt;p&gt;“Chính cậu cũng không biết tại sao mình lại ở đây?”&lt;/p&gt;
+
+&lt;p&gt;“Đang nói cậu ấy”&lt;/p&gt;
+
+&lt;p&gt;Tại sao mình lại ở trên đảo này, bản thân Hương Giang chắc chắn cũng không rõ.&lt;/p&gt;
+
+&lt;p&gt;Ngoài cách chấp nhận ra thì không còn cách nào khác.&lt;/p&gt;
+
+&lt;p&gt;“Dù sao thì mình cũng không muốn bị muộn học.”&lt;/p&gt;
+
+&lt;p&gt;“Thế à”&lt;/p&gt;
+
+&lt;p&gt;“Ở đây là Phú Quốc à”&lt;/p&gt;
+
+&lt;p&gt;“Nói thế nào nhỉ. Thật sự là mình cũng không biết.”&lt;/p&gt;
+
+&lt;p&gt;Nhưng cũng không phải là không biết gì về hòn đảo này.&lt;/p&gt;
+
+&lt;p&gt;Hương Giang tuyệt nhiên không biết gì về Đảo Bậc Thang. Vừa mới sáng thì ghé qua chỗ này.&lt;/p&gt;
+
+&lt;p&gt;“Có một vài nghi thức cần phải làm. Cậu có thể đi cùng tớ không?” – tôi hỏi.&lt;/p&gt;
+
+&lt;p&gt;“Cái đó mất nhiều thời gian không?”&lt;/p&gt;
+
+&lt;p&gt;“Chỉ một vài phút là xong”&lt;/p&gt;
+
+&lt;p&gt;“Ừ. Vậy được.”&lt;/p&gt;
+
+&lt;p&gt;Trên đảo có một vài nguyên tắc.&lt;/p&gt;
+
+&lt;p&gt;Đối với người mới lên đảo, người đầu tiên sống ở đây khi gặp phải có trách nhiệm giải thích các nguyên tắc trên đảo. Hồi tôi mới đến cũng như vậy.&lt;/p&gt;
+
+&lt;p&gt;“Tên cậu là gì?”&lt;/p&gt;
+
+&lt;p&gt;“Hương Giang. Cậu quên à?”&lt;/p&gt;
+
+&lt;p&gt;“Tất nhiên là không. Đây là một phần của nghi thức.”&lt;/p&gt;
+
+&lt;p&gt;Theo như bộ nguyên tắc thì trước tiên, nhất định phải hỏi tên của đối tượng.&lt;/p&gt;
+
+&lt;p&gt;Tôi đã nói rồi.&lt;/p&gt;
+
+&lt;p&gt;“Nơi đây là hòn đảo của những người bị vứt bỏ. Việc xuất hiện ở trên đảo này, là vì Hương Giang có thứ bị mất cần phải tìm lại.”&lt;/p&gt;
+
+&lt;p&gt;Đây là nguyên tắc cơ bản nhất của hòn đảo này. Điều này do ai nói thì không rõ. Ai cũng bảo rằng có một phù thủy sống ở trên núi. Nhưng có thật hay không thì cũng không rõ.&lt;/p&gt;
+
+&lt;p&gt;“Đảo của những người bị vứt bỏ là nghĩa làm sao?”&lt;/p&gt;
+
+&lt;p&gt;“Tất cả những người ở đây đều bị vứt bỏ vậy đấy.”&lt;/p&gt;
+
+&lt;p&gt;Giang nhăn mặt lại. Biểu hiện trái ngược đó có thể thấy được ngay.&lt;/p&gt;
+
+&lt;p&gt;“Con người mà lại gọi là bị vứt bỏ là sao?”&lt;/p&gt;
+
+&lt;p&gt;“Không biết nhưng mà thấy mọi người vẫn dùng từ đó mà. Chẳng hạn như bị người yêu vứt bỏ, bị công ty vứt bỏ ấy.”&lt;/p&gt;
+
+&lt;p&gt;“Bôn cũng bị vứt bỏ?”&lt;/p&gt;
+
+&lt;p&gt;“Ừ. Cậu cũng thế.”&lt;/p&gt;
+
+&lt;p&gt;“Bị ai vứt bỏ?”&lt;/p&gt;
+
+&lt;p&gt;“Không biết ờ”&lt;/p&gt;
+
+&lt;p&gt;“Lại có chuyện bị vứt bỏ nhưng không biết là bị ai vứt bỏ á?”&lt;/p&gt;
+
+&lt;p&gt;Hương Giang hỏi một câu mà không thể lảng đi được.&lt;/p&gt;
+
+&lt;p&gt;Nếu còn có điểm gì đó chưa rõ, cô ấy sẽ hỏi đến cho bằng được. Lúc nào cũng muốn tìm đến câu trả lời rõ ràng, tin là trên đời này điều đó có tồn tại.&lt;/p&gt;
+
+&lt;p&gt;Nhưng mà hiện thực thì, có những không hỏi không hề có câu trả lời chính xác.&lt;/p&gt;
+
+&lt;p&gt;“Cậu thích hỏi sâu nhỉ. Không phải là không muốn bị muộn học hay sao? Vừa đi vừa nói đi”&lt;/p&gt;
+
+&lt;p&gt;“Định đi đâu?”&lt;/p&gt;
+
+&lt;p&gt;“Đến chỗ một người biết rõ hơn mình”&lt;/p&gt;
+
+&lt;p&gt;“Người nào?”&lt;/p&gt;
+
+&lt;p&gt;“Gặp sẽ biết”&lt;/p&gt;
+
+&lt;p&gt;Giang gật đầu. Chúng tôi bắt đầu đi.&lt;/p&gt;
+
+&lt;p&gt;“Dù là như thế nhưng nhiệt độ ở đây chẳng phải hơi kỳ quái à.”&lt;/p&gt;
+
+&lt;p&gt;“Cậu đoán xem giờ là tháng mấy?”&lt;/p&gt;
+
+&lt;p&gt;“Tháng 8 rồi, sắp tháng 9 đến nơi.”&lt;/p&gt;
+
+&lt;p&gt;“Không phải. Thực ra là đã tháng 11 rồi.”&lt;/p&gt;
+
+&lt;p&gt;Có vẻ như Giang đã mất đi ký ức của ba tháng gần đây. Những người đến đảo bậc thang đều bị mất đi phần ký ức ngay trước đó.&lt;/p&gt;
+
+&lt;p&gt;“Chẳng biết tại sao luôn” – Giang nói.&lt;/p&gt;
+
+&lt;p&gt;“Đồng ý kiến” – tôi trả lời.&lt;/p&gt;
+
+&lt;p&gt;Thầm thở dài trong lòng một tiếng. Gặp lại cô gái, cảm xúc trong tôi là những thiếu kiên nhẫn, bực tức, nổi cáu, không thoải mái. Để không lộ ra cảm xúc đó, tôi đành nắm chặt tay lại mà chịu đựng.&lt;/p&gt;
+
+&lt;p&gt;Toàn bộ có thể kết thúc bằng ngẫu nhiên. Thứ không thể lý giải được là thứ cơ bản hơn. Tại sao Hương Giang lại ở trên hòn đảo này?&lt;/p&gt;
+
+&lt;p&gt;Thì rồi là không biết tại sao, và tôi cũng không muốn biết.&lt;/p&gt;
+
+&lt;p&gt;*&lt;/p&gt;
+
+&lt;p&gt;Lần đầu tôi gặp nhỏ là vào năm tiểu học lớp 4.&lt;/p&gt;
+
+&lt;p&gt;(Chưa hết chương, còn tiếp …)&lt;/p&gt;</content><author><name></name></author><summary type="html">Chắc chắn lần hội ngộ đó, không phải là nhờ những thứ kiểu như định mệnh.</summary></entry><entry><title type="html">Lời mở đầu</title><link href="https://m25286.github.io/chantroixanh/2018/04/13/loi-mo-dau.html" rel="alternate" type="text/html" title="Lời mở đầu" /><published>2018-04-13T00:00:00+09:00</published><updated>2018-04-13T00:00:00+09:00</updated><id>https://m25286.github.io/chantroixanh/2018/04/13/loi-mo-dau</id><content type="html" xml:base="https://m25286.github.io/chantroixanh/2018/04/13/loi-mo-dau.html">&lt;p&gt;Chỗ nào cũng có những thứ không thể dùng tiếp được. Cái đu quay bị rỉ sét, chiếc vòng cổ của con cún đã chết, tấm giấy khen ở mặt sau của ngăn kéo, mẫu xương được trang trí ở viện bảo tàng, trái tim đang yêu của kẻ nhút nhát, bầu trời đêm hoài niệm. Mọi người đang trì trệ. Không có mối liên hệ với tương lai, trong kí ức là hình ảnh thân mình co lại vì run rẩy trước cái lạnh. Những điều đó thật buồn nhưng đồng thời cũng đem đến một chút dễ chịu. Ít nhất chúng cũng không làm tổn thương ai.&lt;/p&gt;
+
+&lt;p&gt;Ngày bình thường của tôi cũng thật tốt khi có cơn gió đó.&lt;/p&gt;
+
+&lt;p&gt;Mọi thứ đã kết thúc, có vẻ như chương mở đầu của ngày tới sẽ bắt đầu. Thật muốn một sự an tâm tĩnh lặng như khi các nhân viên dần về hết và khách hàng đã rời chỗ ngồi.&lt;/p&gt;
+
+&lt;p&gt;“Cậu rất giống tôi” - Mèo triệu kiếp nói.&lt;/p&gt;
+
+&lt;p&gt;“Giống chỗ nào cơ?” - Tôi hỏi.&lt;/p&gt;
+
+&lt;p&gt;Mèo triệu kiếp cười kiểu đau khổ theo một cách nào đó.&lt;/p&gt;
+
+&lt;p&gt;“Giống hệt như đang giả vờ chạy xa khỏi tình yêu vậy”&lt;/p&gt;
+
+&lt;p&gt;Gã chân dài như đèn bàn giống như một chàng thanh niên, cao gầy, đội chiếc mũ có gắn thanh gươm đen và to. Không rõ nhưng nghe ai đó bảo hơn tôi một tuổi, nên chắc chắn là 17 rồi. Nhưng chàng trai đó không có dáng vẻ của người đang đi học. Đại để là trên tầng thượng của ngôi trường, vừa lật cuốn sách mang ra từ thư viện vừa uống nước cà chua hộp giấy.&lt;/p&gt;
+
+&lt;p&gt;Chúng tôi dựa lưng vào thanh vịn tay màu bạc, ngồi cạnh nhau trên nền bê tông lạnh lẽo. Rồi tôi nghĩ giá mà mang theo áo khoác thì tốt. Trường được xây bên sườn núi, thêm nữa trên tầng thượng lại không có gì chắn gió cả. Bây giờ đã là giữa tháng 2 rồi. Thời điểm này trở đi nhiệt độ sẽ dần giảm xuống.&lt;/p&gt;
+
+&lt;p&gt;“Cho đến cuối cùng thì ta vẫn không thể yêu”.&lt;/p&gt;
+
+&lt;p&gt;Mèo triệu kiếp vừa để ống hút nước cà chua vào miệng thì bỏ ra ngay.&lt;/p&gt;
+
+&lt;p&gt;“Hoặc là tận sâu trong tim chỉ yêu mỗi mình cô ấy không biết chừng. Chả hiểu. Cũng chẳng còn nhớ nữa, mà đằng nào thì cũng giống nhau”.&lt;/p&gt;
+
+&lt;p&gt;Chàng trai tất nhiên không phải là mèo.&lt;/p&gt;
+
+&lt;p&gt;Và chắc chắn cũng chưa sống được một triệu kiếp.&lt;/p&gt;
+
+&lt;p&gt;Nhưng mà, kiếp trước gã là gì, gã đã sống được bao nhiêu kiếp, đều không liên quan đến tôi. Gã tự xưng là Mèo triệu kiếp. Tôi nghĩ cũng chẳng sao.&lt;/p&gt;
+
+&lt;p&gt;“Cậu đã bao giỡ nghĩ về nhân sinh của những con mèo nuôi chưa” - gã nói.&lt;/p&gt;
+
+&lt;p&gt;“Nếu là mèo thì người ta không gọi là nhân sinh” - tôi trả lời.&lt;/p&gt;
+
+&lt;p&gt;“Ta không quen lắm với những từ ngữ của loài người. Đừng bắt bẻ làm gì.”&lt;/p&gt;
+
+&lt;p&gt;“Ừm. Là ta không tốt.”&lt;/p&gt;
+
+&lt;p&gt;“Ta thích những người chân thành. Mặc dù là không ở đâu con người lại không trở nên chân thành với con mèo mình nuôi nhỉ.”&lt;/p&gt;
+
+&lt;p&gt;“Cậu bây giờ có được ai nuôi không.”&lt;/p&gt;
+
+&lt;p&gt;“Chuyện đó là không thể. Đứng ở đây chỉ có con mèo vứt bỏ và con người bị vứt bỏ.”&lt;/p&gt;
+
+&lt;p&gt;“Nghe buồn nhỉ”&lt;/p&gt;
+
+&lt;p&gt;“Thiệt tình. Nhưng mà so với cuộc sống của mèo nuôi thì ít nhiều tốt hơn không biết chừng. So với việc bị vướng mắc với những mảnh vỡ còn lại của một cuộc tình thì, nhanh chóng vứt bỏ đi còn tốt hơn không biết chừng.”&lt;/p&gt;
+
+&lt;p&gt;“Tôi ngay cả tưởng tượng về một tình yêu đã kết thúc cũng không thể.”&lt;/p&gt;
+
+&lt;p&gt;“Cậu đang nói những thứ chỉ có trong mơ.”&lt;/p&gt;
+
+&lt;p&gt;Tôi trả lời rằng không biết chừng là như vậy. Sau đó tôi nhìn lên bầu trời một cách vô định.&lt;/p&gt;
+
+&lt;p&gt;Nói đến mơ mộng, cuộc sống ở đây còn giống với một giấc mơ hơn.&lt;/p&gt;
+
+&lt;p&gt;Trường của chúng tôi ở cổng chính có đề biển Trường cấp 3 Bách Nguyên. Nhưng trong ký ức của tôi thì chưa thấy ai nhắc đến cái tên này cả. Vì trên hòn đảo nhỏ này chỉ có duy nhất một ngôi trường, nên bình thường không cần thiết phải dùng tên riêng để gọi. Chỉ cần gọi trường học là đủ.&lt;/p&gt;
+
+&lt;p&gt;Hòn đảo này nằm tách biệt với thế giới bên ngoài. Đối với chúng tôi, thế giới hầu hết là tầm 7 km vuông của hòn đảo bé xíu, đã vậy 7 phần đó lại là vùng núi không có người ở. Tôi đến đảo này ba tháng và cho đến tận bây giờ vẫn chưa cảm nhận được hiện thực cuộc sống.&lt;/p&gt;
+
+&lt;p&gt;Mèo triệu kiếp đã nói.&lt;/p&gt;
+
+&lt;p&gt;“Với những con mèo nuôi thì công việc của chúng là được yêu thương đó. Dù làm gì đi nữa nếu là công việc thì cũng đều làm ta mệt mỏi. Ta đã chán ngấy việc được yêu thương rồi.”&lt;/p&gt;
+
+&lt;p&gt;Tôi đáp lại rằng cậu đang nói những thứ chỉ có trong mơ. Gã chỉ nhún vai làm vẻ không để ý đến những lời của tôi.&lt;/p&gt;
+
+&lt;p&gt;“Trong một triệu kiếp sống, một triệu lần ta đã suy nghĩ về hạnh phúc.”&lt;/p&gt;
+
+&lt;p&gt;“Đã tìm thấy câu trả lời chưa?”&lt;/p&gt;
+
+&lt;p&gt;“Nếu thấy rồi thì đã không suy nghĩ đến một triệu lần.”&lt;/p&gt;
+
+&lt;p&gt;“Đúng vậy nhỉ.”&lt;/p&gt;
+
+&lt;p&gt;“Nhưng không hiểu sao ta có một linh cảm. Hạnh phúc giống như một cơn gió vậy.”&lt;/p&gt;
+
+&lt;p&gt;“Khá là văn thơ đấy.”&lt;/p&gt;
+
+&lt;p&gt;“Mèo nói chung đều văn vẻ cả. Cậu đã gặp một con mèo không văn vẻ nào chưa.”&lt;/p&gt;
+
+&lt;p&gt;“Nói thế nào nhỉ. Vì nói chung mèo không nói chuyện.”&lt;/p&gt;
+
+&lt;p&gt;“Im lặng là một cái gì đó văn thơ đấy.”&lt;/p&gt;
+
+&lt;p&gt;Đó chẳng phải là thường thức sao, gã nhìn qua đây với ánh mắt chứa đầy gió. Sau đó gã lại đặt ống hút nước cà chua vào miệng, trở lại với câu chuyện.&lt;/p&gt;
+
+&lt;p&gt;“Nói về cái cảm giác như cơn gió, tóm lại là một cái gì đó đang di chuyển. Giả thiết rằng có một lá cờ màu vàng viết to chữ hạnh đứng ở đâu đó một mình.”&lt;/p&gt;
+
+&lt;p&gt;Tôi tưởng tượng về một lá cờ màu vàng. Nó ở một nơi xa xăm nào đó. Ở phía đối diện với đại dương trên một lục địa nhìn nhỏ bé, gió cũng không thổi mà ủ rũ biến động.&lt;/p&gt;
+
+&lt;p&gt;Mèo triệu kiếp lại tiếp tục.&lt;/p&gt;
+
+&lt;p&gt;“Nhưng mà này, bên dưới lá cờ đó không hoàn toàn là tốt. Nơi đó dù là thiên đường, là nơi khiến ta cảm thấy thỏa mãn, thì cũng không thể gọi là hạnh phúc được. Hướng đến lá cờ và đi đến chỗ của nó, chính những bước đi ấy mới là bản chất của hạnh phúc.”&lt;/p&gt;
+
+&lt;p&gt;“Tôi hiểu cậu muốn nói gì”&lt;/p&gt;
+
+&lt;p&gt;“Đúng vậy nhỉ? Tóm lại là hoàn toàn trái ngược với mèo nuôi đó, “&lt;/p&gt;
+
+&lt;p&gt;“Theo sau đó, cũng có những điều trái ngược của hòn đảo này.”&lt;/p&gt;
+
+&lt;p&gt;Chúng tôi không thể đi đâu được.&lt;/p&gt;
+
+&lt;p&gt;Hoặc là lý tưởng của chúng tôi cứ như vậy không thể kết nối đến đâu được.&lt;/p&gt;
+
+&lt;p&gt;“Thật vậy”&lt;/p&gt;
+
+&lt;p&gt;Mèo triệu kiếp mắt lim dim, chun mũi cười.&lt;/p&gt;
+
+&lt;p&gt;Sau đó, chúng tôi bắt đầu nói đủ thứ chuyện linh tinh. Ví dụ như tự do của mèo với tự do của gió khác nhau chỗ nào, hay như cách mà các con vật không có từ vựng suy nghĩ. Đại khái là khi gã đưa ra lý luận thì tôi hưởng ứng theo. Gã lúc nào cũng chỉ đọc sách nên, thi thoảng cũng muốn ai đó lắng nghe câu chuyện của mình.&lt;/p&gt;
+
+&lt;p&gt;Tôi thì lại thích hưởng ứng theo câu chuyện của người khác. Không mang tính cụ thể, không ảnh hưởng tới hiện thực, những câu chuyện vô thưởng vô phạt lại đặc biệt hay. Vậy nên mèo triệu kiếp thật là dễ mến.&lt;/p&gt;
+
+&lt;p&gt;Nhưng mà vừa lúc mắt nhắm lại, cũng là không thể chịu được cái lạnh, tôi đứng dậy.&lt;/p&gt;
+
+&lt;p&gt;“Về thôi nhỉ?”&lt;/p&gt;
+
+&lt;p&gt;“Ừm. Ngày mai tôi lại tới.”&lt;/p&gt;
+
+&lt;p&gt;Chúng tôi nhìn nhau tạm biệt.&lt;/p&gt;
+
+&lt;p&gt;“Tạm biêt”&lt;/p&gt;
+
+&lt;p&gt;“Tạm biệt”&lt;/p&gt;
+
+&lt;p&gt;Phía Mèo triệu kiếp, chiều tà lơ lửng trên bầu trời, phía nơi đó có đại dương lấp lánh, có thể nhìn thấy được thị trấn nhỏ hình con mèo con đang cuộn tròn người vào bờ biển và chân núi từng cái một.&lt;/p&gt;
+
+&lt;p&gt;Mái nhà đỏ có xanh có. Nhưng tường thì quá nửa là màu trắng. Tại sao lại dùng màu trắng trong khi nó dễ bị bẩn? Có một chút khó hiểu.&lt;/p&gt;
+
+&lt;p&gt;Khoảng sáng của cảnh vật được nhuộm một màu hồng đậm bởi chiều dương. Khắp nơi màu bóng tối đang dần nép mình. Từ thị trấn chân núi, được nối trực tiếp với bậc thang, ở lưng chừng núi là ngôi trường mà chúng tôi theo học.&lt;/p&gt;
+
+&lt;p&gt;Nơi đây được gọi là Đảo bậc thang.&lt;/p&gt;
+
+&lt;p&gt;Bậc thang, chạy theo hướng lên đỉnh núi, nghe đồn ở trên đó là lâu đài nơi phù thủy sống, nhưng mà thực sự thì không ai biết.&lt;/p&gt;
+
+&lt;p&gt;＊&lt;/p&gt;
+
+&lt;p&gt;Đây là câu chuyện về Đảo bậc thang.&lt;/p&gt;
+
+&lt;p&gt;Trên đảo ước chừng khoảng 2000 người sinh sống. Vì trên đảo có ít các cửa tiệm, nên có cảm giác không được tự do, những sự kiện mang tính sự kiện cũng không có, vào đêm trời nắng có thể thấy bầu trời bị áp đảo đầy sao. Chúng tôi, tại nơi này, trải qua những ngày bình thường một cách bình yên, và không ai có thể làm cái việc đó là rời khỏi đảo.&lt;/p&gt;
+
+&lt;p&gt;Tại sao chúng tôi lại đến đảo này, không một ai biết. Toàn bộ đều đẹp, ký ức về lúc đó đang biến mất.&lt;/p&gt;
+
+&lt;p&gt;Ví dụ như tôi, không có ký ước của đại khái khoảng 4 ngày.&lt;/p&gt;
+
+&lt;p&gt;Tôi đến đảo này vào cuối tháng tám. Tôi vẫn nhớ được vào ngày 25 tôi rời khỏi nhà, vì định đến hiệu sách nên đi qua công viên gần nhà. Đoạn ký ức tiếp theo mà tôi lấy lại được là vào ngày 29, chẳng vì lý do gì nhưng lúc đó tôi đang đứng trên bờ biển. Nghe chuyện Alice vì đuổi theo con thỏ mà bị rơi xuống hố còn thuyết phục hơn.&lt;/p&gt;
+
+&lt;p&gt;Dường như nơi đây là hòn đảo của những người bị bỏ rơi. Họ đồn như vậy đấy.&lt;/p&gt;
+
+&lt;p&gt;Không biết được rốt cuộc là bị ai bỏ rơi và theo cách nào. Một hòn đảo kiểu như có thể vứt bỏ được con người, thật khó mà nghĩ được lại tồn tại trong xã hội ngày nay.&lt;/p&gt;
+
+&lt;p&gt;Nhưng khi được giải thích [Đây là hòn đảo những ngời bị bỏ rơi], thì những từ ngữ ngây thơ và khó hiểu đó lại được chấp nhận. Đặc biệt không có sự đau buồn hay hỗn loạn, mà chấp nhận rằng [Ahh hóa ra là mình bị bỏ rơi]. Không hề có cảm giác thật.&lt;/p&gt;
+
+&lt;p&gt;Thực tế không có vấn đề gì với thức ăn và nơi ở. Từ đó khoảng ba tháng tôi đã sống trong bình yên và lãnh đạm. Tôi đang theo học tại ngôi trường duy nhất trên đảo, sống trong ký túc xá dưới chân núi, lúc nào hứng lên thì đi làm mấy công việc làm thêm đơn giản, thỉnh thoảng lên tầng thượng trò chuyện cùng Mèo triệu kiếp. Nghĩ lại thì, ngược lại, tôi nghĩ so với trước khi đến đảo này thì cuộc sống ngày ngày ổn định hơn.&lt;/p&gt;
+
+&lt;p&gt;Nói về Đảo bậc thang thì tất nhiên là một nơi đầy bí ẩn.&lt;/p&gt;
+
+&lt;p&gt;Hòn đảo này từ đâu mà có, là mảnh đất thế nào, không ai có thể trả lời chính xác được. Không cần phải chính xác mà ngay cả một câu chuyện có sức thuyết phục thôi cũng chưa từng nghe qua.&lt;/p&gt;
+
+&lt;p&gt;Có ai đó đã nói câu này, rằng nơi đây là thế giới sau khi chết. Một người khác, với bộ dạng cao hứng, lại kể rằng chính phủ đang xây dựng cơ sở thí nghiệm bí mật. Cũng có những tin đồn nói rằng hòn đảo là dự án tiền tỉ xây dựng xí nghiệp thu nhận lại những con người không còn cần thiết nữa,. Tất cả đều vô căn cứ.&lt;/p&gt;
+
+&lt;p&gt;Tôi có một giả thuyết về hòn đảo này.&lt;/p&gt;
+
+&lt;p&gt;Giả thiết đó không giúp đỡ được gì cho những câu chuyện kiểu thế giới sau khi chết, xí nghiệp thu nhận những người vô ích.&lt;/p&gt;
+
+&lt;p&gt;Tôi, cho đến tận bây giờ, vẫn chưa nói cho ai nghe về giả thuyết đó.&lt;/p&gt;
+
+&lt;p&gt;E rằng từ giờ trở đi cũng không nói cho bất kỳ ai nghe.&lt;/p&gt;
+
+&lt;p&gt;Tôi không nghĩ mình muồn làm sáng tỏ sự thực về hòn đảo này. Mèo triệu kiếp nói rằng chính việc di chuyển mới là bản chất của hạnh phúc. Nhưng tôi lại không ghét sự đình trệ yên ổn. Có thể còn cách xa nơi có hạnh phúc nhưng, đồng thời cũng là nơi cách xa bất hạnh. Nếu không phải là bất hạnh thì có thể nói là hạnh phúc được rồi.&lt;/p&gt;
+
+&lt;p&gt;Hòn đảo này, ít nhất tại thời điểm bây giờ, đang ở trong sự đình trệ yên ổn. Bởi vậy, tôi không hề đi kiếm tìm sự thực về Đảo bậc thang. Và nhất định sẽ là như thế.&lt;/p&gt;
+
+&lt;p&gt;Là sự kỳ diệu của tôi nhưng những ngày ổn định đã bị phá vỡ vào ngày 19 tháng 11, 6h42 phút sáng. Ngay sau lúc đó, một buổi tối cận đông lúc trời đang hửng sáng, hơi thở vừa bắt đầu, buổi sáng vừa chuyển màu trắng, ngay khi vừa nhìn thấy mặt cô gái, tôi cảm thấy tất cả mọi thứ sẽ có biến động lớn. Một sự thay đổi không mong đợi.&lt;/p&gt;
+
+&lt;p&gt;Hương Giang.&lt;/p&gt;</content><author><name></name></author><summary type="html">Chỗ nào cũng có những thứ không thể dùng tiếp được. Cái đu quay bị rỉ sét, chiếc vòng cổ của con cún đã chết, tấm giấy khen ở mặt sau của ngăn kéo, mẫu xương được trang trí ở viện bảo tàng, trái tim đang yêu của kẻ nhút nhát, bầu trời đêm hoài niệm. Mọi người đang trì trệ. Không có mối liên hệ với tương lai, trong kí ức là hình ảnh thân mình co lại vì run rẩy trước cái lạnh. Những điều đó thật buồn nhưng đồng thời cũng đem đến một chút dễ chịu. Ít nhất chúng cũng không làm tổn thương ai.</summary></entry><entry><title type="html">Lời tựa</title><link href="https://m25286.github.io/chantroixanh/2018/02/23/loi-tua.html" rel="alternate" type="text/html" title="Lời tựa" /><published>2018-02-23T00:00:00+09:00</published><updated>2018-02-23T00:00:00+09:00</updated><id>https://m25286.github.io/chantroixanh/2018/02/23/loi-tua</id><content type="html" xml:base="https://m25286.github.io/chantroixanh/2018/02/23/loi-tua.html">&lt;h2 id=&quot;những-thứ-đã-đánh-mất-gì-ấy-nhỉ-những-điều-bí-ẩn-đi-qua-trái-tim-tuổi-thanh-xuân&quot;&gt;Những thứ đã đánh mất, gì ấy nhỉ. Những điều bí ẩn đi qua trái tim tuổi thanh xuân.&lt;/h2&gt;
+&lt;p&gt;Ngày 19 tháng 11 6h42’ sáng, tôi đã gặp lại cô ấy. Là người thẳng thắn, chính trực, nghiêm khắc - Hương Giang. Cuộc gặp bất ngờ đó đã làm thay đổi hoàn toàn cuộc sống học sinh trung học của tôi. Đó là một hòn đảo kỳ diệu. Nơi đó có những điều bí ẩn huyền bí… Tôi tại sao lại ở đây. Người con gái ấy tại sao lại đến đây. Chân tướng mà chẳng mấy chốc được sáng tỏ, sẽ là một hiện thực tàn khốc đâm thẳng vào thanh xuân của chúng ta. Series [Đảo cầu thang] khai mạc.&lt;/p&gt;</content><author><name></name></author><summary type="html">Những thứ đã đánh mất, gì ấy nhỉ. Những điều bí ẩn đi qua trái tim tuổi thanh xuân. Ngày 19 tháng 11 6h42’ sáng, tôi đã gặp lại cô ấy. Là người thẳng thắn, chính trực, nghiêm khắc - Hương Giang. Cuộc gặp bất ngờ đó đã làm thay đổi hoàn toàn cuộc sống học sinh trung học của tôi. Đó là một hòn đảo kỳ diệu. Nơi đó có những điều bí ẩn huyền bí… Tôi tại sao lại ở đây. Người con gái ấy tại sao lại đến đây. Chân tướng mà chẳng mấy chốc được sáng tỏ, sẽ là một hiện thực tàn khốc đâm thẳng vào thanh xuân của chúng ta. Series [Đảo cầu thang] khai mạc.</summary></entry></feed>
